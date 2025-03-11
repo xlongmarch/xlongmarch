@@ -6,6 +6,14 @@ I love tinkering with hardware, coding projects, and exploring tech.
 ## Featured Project: 5 Red LED Blink (Arduino)
 A simple Arduino project that blinks 5 red LEDs one by one.
 
+##Hardware
+5 Red LEDs
+5 Resistors (220-330 ohms)
+Arduino board
+Breadboard & wires
+Connect LEDs to pins 2-6, with cathodes to GND via resistors. Upload the code and enjoy the blink!
+
+
 ### Code
 ```cpp
 // Define the LED pins
@@ -49,9 +57,4 @@ void loop() {
 }
 
 
-Hardware
-5 Red LEDs
-5 Resistors (220-330 ohms)
-Arduino board
-Breadboard & wires
-Connect LEDs to pins 2-6, with cathodes to GND via resistors. Upload the code and enjoy the blink!
+
